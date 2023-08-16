@@ -392,6 +392,8 @@ Checking it works:
 ----
 (.venv) $ *python -c 'from selenium import webdriver; webdriver.Firefox()'*
 ----
+// JWASHBURN: Seems like these single quotes are being lost in the rendered html, website output
+//            is missing the quotes and appears to be making the text italic instead
 
 this should pop open a Firefox web browser, which you'll then need to close.
 

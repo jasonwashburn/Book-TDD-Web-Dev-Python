@@ -385,6 +385,7 @@ $ pass:[<strong>git status</strong>]
 On branch main
 
 Initial commit
+// JWASHBURN: This should still be "No commits yet" as we didn't actually commit anything yet.
 
 Changes to be committed:
   (use "git rm --cached <file>..." to unstage)
